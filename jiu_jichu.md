@@ -6,7 +6,7 @@ Author: Tom Gou
 Summary: lintcode algorithm ladder
 
 
-[toc]
+* [Binary Search](#Binary Search)
 
 
 ### 1 warm-up
